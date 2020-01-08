@@ -16,8 +16,8 @@ const int MAXN = 10;
 PAIR data[MAXN] = {};
 
 int main() {
-    //freopen("gift1.in", "r", stdin);
-    //freopen("gift1.out", "w", stdout);
+    freopen("gift1.in", "r", stdin);
+    freopen("gift1.out", "w", stdout);
 
     int np;
     cin >> np;
